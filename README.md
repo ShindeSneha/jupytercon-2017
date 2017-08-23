@@ -2,6 +2,10 @@
 
 ### To launch:
 
+Ensure you have:
+- Docker installed
+- github account
+- git installed
 
 ```
 git clone https://github.com/datascienceinc/jupytercon-2017.git
